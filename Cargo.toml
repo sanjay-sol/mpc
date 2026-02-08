@@ -1,0 +1,10 @@
+[package]
+name = "oblivious_transfer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+curve25519-dalek = "4.1"
+sha2 = "0.10"
+rand = "0.8"
+hex = "0.4"
